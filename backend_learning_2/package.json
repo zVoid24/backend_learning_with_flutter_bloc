@@ -1,7 +1,6 @@
 {
   "name": "backend-learning-2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +11,11 @@
   "dependencies": {
     "express": "^5.1.0",
     "fs": "^0.0.1-security",
+    "moment": "^2.30.1",
     "nodemon": "^3.1.10",
-    "path": "^0.12.7"
-  }
+    "path": "^0.12.7",
+    "random": "^5.4.0",
+    "simple-git": "^3.28.0"
+  },
+  "description": ""
 }
